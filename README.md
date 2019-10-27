@@ -1,6 +1,5 @@
-<div style="margin:0 auto;height:2206px;width:780px;background:url('assets/5b34a995be8e1.jpg');background-size:contain">
+<div style="margin:0 auto;height:2206px;width:780px;background:url('5b34a995be8e1.jpg');background-size:contain">
 <div style="margin:0 auto;padding:140px 100px;color:black;font-weight:bold">
-<span style="position:absolute;right: 0px;font-weight:300">2019 年 10 月 27 日晚</span>
 <h3>亲爱的，</h3>
 <p>马上，就要到我们婚礼一周年的时间了。</p>
 <p>回忆万千，我们的时光如走马灯滑过，我们的身影渐渐定格。一路走来，吵吵闹闹，情深意重，喜怒哀乐。</p>
@@ -42,6 +41,7 @@
 如果做了手术，要好好休养。
 需要我去接你回家的话，我一定尽快回来。</p>
 <p><span style="color:red;font-size:1.2em">对不起。              谢谢你。             我爱你。</span></p>
-<p>一年前的现在，我满怀信心和希望；一年后的今天，我心永恒。愿此情可待，此生不负。
+  <p>一年前的现在，我满怀信心和希望；一年后的今天，我心永恒。愿此情可待，此生不负。</p>
+<span style="font-weight:300">2019 年 10 月 27 日晚</span>
 </div>
 </div>
